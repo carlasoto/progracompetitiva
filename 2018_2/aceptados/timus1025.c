@@ -11,8 +11,8 @@ int main(){
 		for(k=j+1; k<n; k++){
 			if(p[j]>p[k]){
 			    aux = p[j];
-				p[j] = p[k];
-				p[k]   = aux;
+			    p[j] = p[k];
+			    p[k] = aux;
 			}
 		}
 	}
