@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//Codigo sacado de internet
 using namespace std;
 
 void anagram(size_t oi, size_t on, stack<char>& sst, stack<char>& tst,
